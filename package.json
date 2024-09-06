@@ -7,8 +7,7 @@
     "test": "exit 0"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mrlatecomer95/hello-world-npm.git"
+    "url": "https://github.com/mrlatecomer95/hello-world-npm.git"
   },
   "author": "mrlatecomer95",
   "license": "ISC",
